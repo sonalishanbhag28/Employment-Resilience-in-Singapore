@@ -15,3 +15,11 @@ Built with Plotly Express, it visualizes employment shifts, recovery patterns, a
 **Data Source: Singapore Department of Statistics (https://www.tablebuilder.singstat.gov.sg)**
 
 **Tech Stack: Python · Streamlit · Plotly Express · Pandas**
+
+**How to Run**
+1. Install dependencies:
+   `pip install streamlit pandas numpy plotly-express`
+2. Run the dashboard:
+   `streamlit run Dashboard.py`
+3. Open in browser:
+   http://localhost:8501
