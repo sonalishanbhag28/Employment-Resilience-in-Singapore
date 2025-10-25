@@ -12,5 +12,6 @@ Built with Plotly Express, it visualizes employment shifts, recovery patterns, a
 5. Recovery Speed by Industry: Measure how long each industry took to return to pre-pandemic levels.
 6. Employment by Age Group: See long-term employment trends by age band, with annotated year-over-year changes.
 
-Data Source: Singapore Department of Statistics (https://www.tablebuilder.singstat.gov.sg)
-Tech Stack: Python · Streamlit · Plotly Express · Pandas
+**Data Source: Singapore Department of Statistics (https://www.tablebuilder.singstat.gov.sg)**
+
+**Tech Stack: Python · Streamlit · Plotly Express · Pandas**
